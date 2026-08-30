@@ -26,10 +26,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-          cache: "pip"
 
       - name: Instalar dependencias
-        run: python -m pip install -r requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install requests==2.32.5 beautifulsoup4==4.13.4 urllib3==2.5.0
 
       - name: Crear RSS
         run: python rss.py
