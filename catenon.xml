@@ -5,8 +5,15 @@
 <link>https://www.catenon.com/es/news</link>
 <description>Últimas noticias oficiales publicadas por Catenon</description>
 <language>es</language>
-<lastBuildDate>Wed, 04 Nov 2026 14:46:20 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 14:50:57 +0000</lastBuildDate>
 <ttl>60</ttl>
+<item>
+<title>Catenon participa en la campaña 2026 de la Cámara Alemana: Alemania y España, una alianza para impulsar la competitividad empresarial</title>
+<link>https://www.catenon.com/es/news/catenon-participa-en-la-campana-2026-de-la-camara-alemana-alemania-y-espana</link>
+<guid isPermaLink="true">https://www.catenon.com/es/news/catenon-participa-en-la-campana-2026-de-la-camara-alemana-alemania-y-espana</guid>
+<pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
+<description>Catenon participa en la campaña 2026 de la Cámara de Comercio Alemana para España, destacando el papel del talento y el liderazgo en la cooperación empresarial entre Alemania y España.</description>
+</item>
 <item>
 <title>Funcionamiento del consejo de administración y su estructura</title>
 <link>https://www.catenon.com/es/news/funcionamiento-del-consejo-de-administracion-y-su-estructura</link>
@@ -104,13 +111,6 @@
 <guid isPermaLink="true">https://www.catenon.com/es/news/cesur-y-la-feria-de-abril-el-valor-de-los-encuentros-empresariales-en-andalucia</guid>
 <pubDate>Wed, 29 Apr 2026 12:00:00 +0000</pubDate>
 <description>The institutional reception organized by CESUR Empresarios del Sur de España during the April Fair has been featured in Diario de Sevilla, highlighting one of the most relevant business gatherings in southern Spain during this time of year.</description>
-</item>
-<item>
-<title>Reclutamiento internacional: cómo está cambiando la selección de talento global</title>
-<link>https://www.catenon.com/es/news/reclutamiento-internacional-como-esta-cambiando-la-seleccion-de-talento-global-executive-search</link>
-<guid isPermaLink="true">https://www.catenon.com/es/news/reclutamiento-internacional-como-esta-cambiando-la-seleccion-de-talento-global-executive-search</guid>
-<pubDate>Wed, 22 Apr 2026 12:00:00 +0000</pubDate>
-<description>Catenon lidera el executive search y el headhunting internacional con un modelo global, tecnología avanzada y búsqueda de talento en más de 100 países.</description>
 </item>
 </channel>
 </rss>
